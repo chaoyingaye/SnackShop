@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # snack_shop
 
 > A Vue.js project
@@ -24,3 +25,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # SnackShop
 vue project
 >>>>>>> b6d974002da1c312347d051ca74c53fce6991465
+=======
+# SnackShop
+vue project
+>>>>>>> 160c79ffbafa50375d69efa8b99b90a92498abda
